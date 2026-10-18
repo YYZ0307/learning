@@ -1,0 +1,12 @@
+# 敏感凭证，禁止上传
+config.json
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+env/
+
+# 运行时/日志
+*.log

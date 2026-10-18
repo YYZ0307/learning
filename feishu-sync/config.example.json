@@ -1,0 +1,9 @@
+{
+  "app_id": "在这里填你的 App ID",
+  "app_secret": "在这里填你的 App Secret",
+  "verification_token": "在这里填 Verification Token",
+  "encrypt_key": "在这里填 Encrypt Key（没开事件加密就留空）",
+  "source_chat_id": "在这里填中转群的 chat_id（oc_ 开头）",
+  "require_at_bot": true,
+  "forward_interval_seconds": 0.5
+}
